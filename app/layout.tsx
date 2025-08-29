@@ -1,5 +1,5 @@
 import '@/app/ui/global.css';
-import { interMilan,Lusitana } from '@/app/ui/fonts';
+import { interMilan,lusitana } from '@/app/ui/fonts';
 
 export default function RootLayout({
   children,
